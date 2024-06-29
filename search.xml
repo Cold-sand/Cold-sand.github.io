@@ -1,21 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World</title>
-    <url>/2023/12/28/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a class="link"   href="https://hexo.io/" >Hexo <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>! This is your very first post. Check <a class="link"   href="https://hexo.io/docs/" >documentation <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> for more info. If you get any problems when using Hexo, you can find the answer in <a class="link"   href="https://hexo.io/docs/troubleshooting.html" >troubleshooting <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> or you can ask me on <a class="link"   href="https://github.com/hexojs/hexo/issues" >GitHub <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure></div>
-
-<p>More info: <a class="link"   href="https://hexo.io/docs/writing.html" >Writing <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure></div>
-
-<p>More info: <a class="link"   href="https://hexo.io/docs/server.html" >Server <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure></div>
-
-<p>More info: <a class="link"   href="https://hexo.io/docs/generating.html" >Generating <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure></div>
-
-<p>More info: <a class="link"   href="https://hexo.io/docs/one-command-deployment.html" >Deployment <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
-]]></content>
+    <title>如何分辨可乐与水</title>
+    <url>/2024/04/13/%E5%A6%82%E4%BD%95%E5%88%86%E8%BE%A8%E5%8F%AF%E4%B9%90%E4%B8%8E%E6%B0%B4/</url>
+    <content><![CDATA[<h3 id="一-导语"><a href="#一-导语" class="headerlink" title="一. 导语"></a>一. 导语</h3><p>&emsp;&emsp;在日常生活中，我们常常会因为无法分辨可乐与纯净水而感到困扰。同时，分辨可乐与纯净水，也是在人类资格证考试中一个重难点。在本教程中，我将向您展示如何分辨日常生活中可乐与纯净水的的区别之处，并帮助您更好的分辨以上两个对象以便融入人类群体中。</p>
+<h3 id="二-教程"><a href="#二-教程" class="headerlink" title="二. 教程"></a>二. 教程</h3><p>&emsp;&emsp;首先，我们要先了解目标对象的特征。虽然两者都是液体，但可乐的颜色是黑褐色，纯净水是透明无色的。在液体成分分析中可乐是黑褐色、味甜、含咖啡因的碳酸饮料的水。请注意纯净水与矿泉水虽然成分不同，但人类通常会把它们统称为水（指可以直接饮用的水）。在人类面前努力分辨矿泉水与纯净水的行为，可能会暴露您的非人类身份。</p>
+<p>&emsp;&emsp;注意，可乐和纯净水是一个总称，并不是人类特定的饮品，下面是几种人类社会常见的纯净水和可乐</p>
+<table>
+<thead>
+<tr>
+<th align="center"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://img1.baidu.com/it/u=1715844154,1029398350&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=751"
+                      style="zoom:25%;" 
+                ></th>
+<th align="center"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://gfs.gomein.net.cn/T1DBKzB5D_1RCvBVdK_800.jpg?v=3"
+                      style="zoom:25%;" 
+                ></th>
+<th align="center"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://img0.baidu.com/it/u=1742244376,1285497350&fm=253&fmt=auto&app=138&f=JPEG?w=712&h=949"
+                      style="zoom:25%;" 
+                ></th>
+<th align="center"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg.alicdn.com%2Fimgextra%2Fi2%2F3246902985%2FTB2R742avjM8KJjSZFyXXXdzVXa_%21%213246902985.jpg_2200x2200Q90s50.jpg&refer=http%3A%2F%2Fimg.alicdn.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1722243505&t=8a4a5661b83b409f9e8dafec132813e0"
+                      style="zoom:25%;" 
+                ></th>
+</tr>
+</thead>
+</table>
+<h5 id="emsp-emsp-接下来，我们会教你几种人类常用的方式来分辨可乐与纯净水，这几种方式虽然难度颇高，但隐蔽性最强，不会引起人类的怀疑，是你在日常生活中优选的方式。"><a href="#emsp-emsp-接下来，我们会教你几种人类常用的方式来分辨可乐与纯净水，这几种方式虽然难度颇高，但隐蔽性最强，不会引起人类的怀疑，是你在日常生活中优选的方式。" class="headerlink" title="&emsp;&emsp;接下来，我们会教你几种人类常用的方式来分辨可乐与纯净水，这几种方式虽然难度颇高，但隐蔽性最强，不会引起人类的怀疑，是你在日常生活中优选的方式。"></a>&emsp;&emsp;接下来，我们会教你几种人类常用的方式来分辨可乐与纯净水，这几种方式虽然难度颇高，但隐蔽性最强，不会引起人类的怀疑，是你在日常生活中优选的方式。</h5><ol>
+<li>&emsp;&emsp;观察纯净水与可乐的透明度，通常情况下，可乐的透明度比纯净水低很多，你可以通过观察目标对象的透明度来区分它们。但请注意，大部分人类饮料的透明度都比纯净水高，因此这种方法只在您确定目标对象只在可乐和纯净水的范围内适用。同时，在暗光环境下，这种方法也可能会失效。</li>
+<li>&emsp;&emsp;你可以通过味道来分辨目标对象。通常情况下，可乐具有香草、肉桂、柠檬香味等味道，同时，在饮用的同时，还会感觉到气泡产生。纯净水并没有明显味道和特殊的现象。</li>
+</ol>
+<h5 id="emsp-emsp-以上方法虽然隐蔽性强，但难度颇高，需经过长期的训练才能掌握，接下来我将为您介绍几种成功度较高的方法，您可以选择它们在隐蔽环境下使用。"><a href="#emsp-emsp-以上方法虽然隐蔽性强，但难度颇高，需经过长期的训练才能掌握，接下来我将为您介绍几种成功度较高的方法，您可以选择它们在隐蔽环境下使用。" class="headerlink" title="&emsp;&emsp;以上方法虽然隐蔽性强，但难度颇高，需经过长期的训练才能掌握，接下来我将为您介绍几种成功度较高的方法，您可以选择它们在隐蔽环境下使用。"></a>&emsp;&emsp;以上方法虽然隐蔽性强，但难度颇高，需经过长期的训练才能掌握，接下来我将为您介绍几种成功度较高的方法，您可以选择它们在隐蔽环境下使用。</h5><ol>
+<li>您可以通过化学分析的方法来识别目标对象的成分。识别水可能不是很好的方案，因为可乐和纯净水的成分中都有水，识别可乐中特有的成分是更好的选择。通常情况下，可乐具有较低的PH值，因为其中含有磷酸、碳酸等酸性成分。如果您有适当的条件，您可以通过质谱法、核磁共振光谱（NMR）等技术来分析目标对象的，如磷酸，咖啡因等。</li>
+<li>光谱分析也是一种很好的选择，利用光谱分析技术（如红外光谱、质谱等）可以轻易的分辨纯净水与可乐。因为每种液体都有其特定的光谱图谱。</li>
+</ol>
+<h5 id="emsp-emsp-最后，我将向您介绍一种简单，迅速的方法，那就是向其它人类询问。但这对您的人类外貌伪装水平，语言水平，行动水平有一定的要求，同时，您还需要掌握人类学，心理学，社会学等人类学科。接下来是两个教学案例"><a href="#emsp-emsp-最后，我将向您介绍一种简单，迅速的方法，那就是向其它人类询问。但这对您的人类外貌伪装水平，语言水平，行动水平有一定的要求，同时，您还需要掌握人类学，心理学，社会学等人类学科。接下来是两个教学案例" class="headerlink" title="&emsp;&emsp;最后，我将向您介绍一种简单，迅速的方法，那就是向其它人类询问。但这对您的人类外貌伪装水平，语言水平，行动水平有一定的要求，同时，您还需要掌握人类学，心理学，社会学等人类学科。接下来是两个教学案例"></a>&emsp;&emsp;最后，我将向您介绍一种简单，迅速的方法，那就是向其它人类询问。但这对您的人类外貌伪装水平，语言水平，行动水平有一定的要求，同时，您还需要掌握人类学，心理学，社会学等人类学科。接下来是两个教学案例</h5><h6 id="E1：这是可乐还是水"><a href="#E1：这是可乐还是水" class="headerlink" title="E1：这是可乐还是水"></a>E1：这是可乐还是水</h6><p>&emsp;&emsp;这是一个错误案例。这种方式过于直接，对方会怀疑您的身份，从而使您暴露，所以无论如何这种方法是不可取的。</p>
+<h6 id="E2：你猜这是可乐（水）还是醋"><a href="#E2：你猜这是可乐（水）还是醋" class="headerlink" title="E2：你猜这是可乐（水）还是醋"></a>E2：你猜这是可乐（水）还是醋</h6><p>&emsp;&emsp;如果您手里拿的是纯净水，人类可能会说出这是白醋，或者指出这就是纯净水。如果您手里拿的是可了，人类可能会指出这是醋或者直接说明这是可乐。这时您就可以通过简单的逻辑学来判断这是水或者可乐。这种方法委婉且幽默，且不会暴露您非人类的身份。</p>
+<h3 id="三：实践作业"><a href="#三：实践作业" class="headerlink" title="三：实践作业"></a>三：实践作业</h3><p>&emsp;&emsp;尝试去人类超市中购买可乐或水</p>
+<h4 id="emsp-相信通过今天的课程，您已经可以熟练的分辨可乐与水，希望本教程对您有帮助"><a href="#emsp-相信通过今天的课程，您已经可以熟练的分辨可乐与水，希望本教程对您有帮助" class="headerlink" title="&emsp;相信通过今天的课程，您已经可以熟练的分辨可乐与水，希望本教程对您有帮助"></a>&emsp;相信通过今天的课程，您已经可以熟练的分辨可乐与水，希望本教程对您有帮助</h4>]]></content>
+      <tags>
+        <tag>奇思妙想</tag>
+        <tag>奇怪的东西</tag>
+      </tags>
   </entry>
 </search>
